@@ -1,2 +1,2 @@
-# -renci-kay-t-uygulamas-PYTHON-
+# ogrenci-kayit-uygulamasi-PYTHON
 Python öğrenci kayıt uygulaması 
